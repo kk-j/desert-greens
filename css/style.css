@@ -584,7 +584,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table;
   overflow: hidden; }
   .project .desc-t {
-    display: table;
+    
     height: 500px;
     width: 50%;
     margin: 0 auto; }
